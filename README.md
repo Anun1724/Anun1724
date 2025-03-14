@@ -33,6 +33,12 @@ I'm a passionate **UI/UX designer** and **frontend developer**, solving user-cen
 
 ---
 
+## Figma Designs
+
+[![Figma](https://img.shields.io/badge/FIGMA-SalonWebsite-black?style=for-the-badge&logo=figma)](https://www.figma.com/design/aH5RjGoYZhjghUZKP7sm3M/salonweb?node-id=3-3&t=gKCVysGX5UDiABre-1)  
+
+[![Figma](https://img.shields.io/badge/FIGMA-SalonApp-black?style=for-the-badge&logo=figma)](https://www.figma.com/design/irxpoLU9AEgUNOyd5dDE83/Salonmanageapp?node-id=6-4&t=7E47dX6OSGlhqugl-1)  
+
 ## 📈 Project Impact  
 
 ![Project Stats](https://img.shields.io/badge/Projects-4-blue?style=for-the-badge)  
