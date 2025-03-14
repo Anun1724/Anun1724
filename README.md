@@ -45,8 +45,10 @@ I'm a passionate **UI/UX designer** and **frontend developer**, solving user-cen
 
 ## 🎨 Figma Designs  
 
-[![Figma](https://img.shields.io/badge/Figma-Salon%20Website-black?style=for-the-badge&logo=figma)](https://www.figma.com/design/aH5RjGoYZhjghUZKP7sm3M/salonweb?node-id=3-3&t=gKCVysGX5UDiABre-1)  
-[![Figma](https://img.shields.io/badge/Figma-Salon%20App-black?style=for-the-badge&logo=figma)](https://www.figma.com/design/irxpoLU9AEgUNOyd5dDE83/Salonmanageapp?node-id=6-4&t=7E47dX6OSGlhqugl-1)  
+[![Figma](https://img.shields.io/badge/Figma-Salon%20Website-black?style=for-the-badge&logo=figma)](https://www.figma.com/design/aH5RjGoYZhjghUZKP7sm3M/salonweb?node-id=3-3&t=gKCVysGX5UDiABre-1)
+[![Figma](https://img.shields.io/badge/Figma-Voting%20System-black?style=for-the-badge&logo=figma)](https://www.figma.com/design/frKZ3OJx0Qef76Nc7EEzER/voting-system?node-id=0-1&t=bjbIS0ilmoOwQDB9-1)
+
+
 
 ---
 
