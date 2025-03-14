@@ -1,4 +1,4 @@
-# 🚀 UI/UX & Frontend Portfolio  
+# Hi there! 👋 I'm Kshitij Desai
 
 I'm a passionate **UI/UX designer** and **frontend developer**, solving user-centric problems and real-world challenges through **intuitive and impactful designs**. Always learning, I aim to create seamless **digital experiences** that blend **creativity with functionality**.
 
