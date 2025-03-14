@@ -37,7 +37,6 @@ I'm a passionate **UI/UX designer** and **frontend developer**, solving user-cen
 
 ![Project Stats](https://img.shields.io/badge/Projects-4-blue?style=for-the-badge)  
 ![Tech Used](https://img.shields.io/badge/Flutter-100%25-orange?style=for-the-badge)  
-![Users Impacted](https://img.shields.io/badge/Users-1000%2B-green?style=for-the-badge)
 
 ---
 
