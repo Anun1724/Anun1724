@@ -42,8 +42,7 @@ I'm a passionate **UI/UX designer** and **frontend developer**, solving user-cen
 
 ## 🚀 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](your-github-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anushka-unde-a389a3271/)  
 
 ---
 
