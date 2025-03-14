@@ -14,10 +14,8 @@ I'm a passionate **UI/UX designer** and **frontend developer**, solving user-cen
 ## 🏆 Projects  
 
 📊 **Tech Stack Usage**  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Unde&layout=compact&theme=tokyonight)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Unde&layout=compact&theme=tokyonight
 
-📈 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushka-Unde&show_icons=true&theme=radical)  
 
 | **Project Name**       | **Domain**                | **Tech Stack** |
 |------------------------|--------------------------|----------------|
